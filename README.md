@@ -1,4 +1,3 @@
-# firstOne
-Just new repositiry  
-It is my first thing I have done in GitHub
-And I'll try to my best...Well,I hope so))
+# GeekBrainsHomework
+Пока из Практического задания №1 сделал 2 номера
+Номера с методами попущю и сделаю позже
